@@ -2,6 +2,11 @@
 
 Devise gem과 omniauth gem을 활용하여 facebook, google, kakao 아이디로 로그인할 수 있도록 해주는 기능입니다. + 프로필 이미지를 사용하는 기능입니다.
 
+## version
+
+rails 5.0.1
+ruby 2.3.1
+
 ## Getting Started
 
 다음의 gem을 설치합니다.
